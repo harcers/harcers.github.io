@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://harcers.github.io/sitemap.html.gz
+Sitemap: https://harcers.github.io/app/sitemap.html.gz
+Sitemap: https://harcers.github.io/assets/sitemap.html.gz
+Sitemap: https://harcers.github.io/css/sitemap.html.gz
+Sitemap: https://harcers.github.io/data/sitemap.html.gz
+Sitemap: https://harcers.github.io/includes/sitemap.html.gz
+Sitemap: https://harcers.github.io/item/sitemap.html.gz
+Sitemap: https://harcers.github.io/src/sitemap.html.gz
